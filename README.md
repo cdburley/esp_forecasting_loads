@@ -1,30 +1,31 @@
 # esp_forecasting_loads
 
 ## Contributors
-Data was produced by Aowabin Rahman (aowabin.rahman@pnnl.gov) and Casey Burleyson (casey.burleyson@pnnl.gov) both of 
-PNNL. Both contributors should be considered for co-authorship on any papers that leverage this dataset.
+Data was produced by Aowabin Rahman (aowabin.rahman@pnnl.gov) and Casey Burleyson (casey.burleyson@pnnl.gov). Both 
+should be considered for co-authorship on any papers that leverage this dataset.
 
 ## Summary
 Loads were produced using the machine-learning (ML) workflow that underpins the Total ELectricity laods (TELL) model.
-TELL trains a unique ML model for each of 31 load areas in the western U.S. The approximate service territory for each 
+We trained a unique ML model for each of 31 load areas in the western U.S. The approximate service territory for each 
 of those load areas are plotted in the `/figures/load_area_service_territory` directory. These load areas are largely 
 the recognized Balancing Authorities (BAs) except CISO which breaks their loads down into four zones within the BA: PGE, 
 SCE, SDGE, and VEA. Note that TELL does not model BAs in Canada or Mexico so the total loads summed over the U.S. 
-western interconnection are slightly lower than the reported values which reflects a handful of additional BAs outside 
-of the U.S.
+western interconnection are slightly lower than the reported values which reflect a handful of additional BAs outside 
+the U.S.
 
-For this analysis the models were trained using historical hourly loads and meteorology from 2021-2022 with 2023 used 
+The models were trained using historical hourly loads and meteorology from 2021-2022 with 2023 used 
 as a validation year and 2024 as an evaluation year. The models perform reasonably well. The root hourly load data that 
 we trained on came from the EIA-930 dataset and historical meteorology was derived from IM3's Thermodynamic Global 
 Warming (TGW) simulations. Hourly meteorology was first spatially averaged within each county and then population-
-weighted to create a single 8760-hr (8784-hr) time series of meteorology for each load area.
+weighted to create a single 8760-hr (8784-hr in leap years) time series of meteorology for each load area.
 
 Once trained, we passed 45 years of historical weather (1980-2024) through the models. This is equivalent to asking 
 "What if the weather of 1980, for example, impacted the system as it existed in 2021-2022?" The final data products are
 hourly demands from 1980-2024 for each load area as well as an additional set of .csv files that sum the load areas to 
-create time-series for the U.S. western interconnection as a whole.
+create time-series for the U.S. western interconnection as a whole. All times are in UTC. Non-leap years contain 
+8760-hrs of loads while weather years that were leap years contain 8784-hrs.
 
-Final data was passed to Nathalie Voisin on 11-Nov 2026 via MS Teams.
+The final dataset was passed to Nathalie Voisin on 11-Nov 2026 via Teams.
 
 ## Workflow
 Use the following notebooks to rerun the visualizations shown in the `/figures`. The specific load areas the analysis 
