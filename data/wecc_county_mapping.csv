@@ -1,0 +1,667 @@
+ba,state_name,county_name,county_fips,population,population_weight
+AVA,Idaho,Benewah County,16009,9430,0.0062
+AVA,Idaho,Bonner County,16017,46817,0.0309
+AVA,Idaho,Clearwater County,16035,8846,0.0058
+AVA,Idaho,Idaho County,16049,16823,0.0111
+AVA,Idaho,Kootenai County,16055,170628,0.1126
+AVA,Idaho,Latah County,16057,40830,0.0269
+AVA,Idaho,Lewis County,16061,3838,0.0025
+AVA,Idaho,Nez Perce County,16069,40755,0.0269
+AVA,Idaho,Shoshone County,16079,12911,0.0085
+AVA,Montana,Sanders County,30089,12157,0.008
+AVA,Oregon,Morrow County,41049,11700,0.0077
+AVA,Washington,Adams County,53001,20027,0.0132
+AVA,Washington,Asotin County,53003,22820,0.0151
+AVA,Washington,Benton County,53005,206426,0.1362
+AVA,Washington,Douglas County,53017,43560,0.0287
+AVA,Washington,Franklin County,53021,97075,0.064
+AVA,Washington,Garfield County,53023,2290,0.0015
+AVA,Washington,Grant County,53025,99377,0.0656
+AVA,Washington,Lincoln County,53043,11090,0.0073
+AVA,Washington,Pend Oreille County,53051,14144,0.0093
+AVA,Washington,Spokane County,53063,528225,0.3485
+AVA,Washington,Stevens County,53065,46360,0.0306
+AVA,Washington,Whitman County,53075,49500,0.0327
+AZPS,Arizona,Cochise County,4003,127450,0.0096
+AZPS,Arizona,Coconino County,4005,142481,0.0107
+AZPS,Arizona,Gila County,4007,54303,0.0041
+AZPS,Arizona,La Paz County,4012,21480,0.0016
+AZPS,Arizona,Maricopa County,4013,4579081,0.344
+AZPS,Arizona,Mohave County,4015,217206,0.0163
+AZPS,Arizona,Navajo County,4017,112112,0.0084
+AZPS,Arizona,Pinal County,4021,480828,0.0361
+AZPS,Arizona,Yavapai County,4025,240226,0.018
+AZPS,Arizona,Yuma County,4027,217824,0.0164
+AZPS,California,Riverside County,6065,2489188,0.187
+AZPS,California,San Bernardino County,6071,2189183,0.1645
+AZPS,Nevada,Clark County,32003,2315963,0.174
+AZPS,New Mexico,San Juan County,35045,123312,0.0093
+BANC,California,Alameda County,6001,1662323,0.1985
+BANC,California,Amador County,6005,40083,0.0048
+BANC,California,Butte County,6007,212744,0.0254
+BANC,California,Calaveras County,6009,46308,0.0055
+BANC,California,El Dorado County,6017,192925,0.023
+BANC,California,Lassen County,6035,30016,0.0036
+BANC,California,Mendocino County,6045,86061,0.0103
+BANC,California,Placer County,6061,402950,0.0481
+BANC,California,Plumas County,6063,18967,0.0023
+BANC,California,Sacramento County,6067,1559146,0.1861
+BANC,California,San Joaquin County,6077,767967,0.0917
+BANC,California,Santa Clara County,6085,1907105,0.2277
+BANC,California,Shasta County,6089,179027,0.0214
+BANC,California,Sierra County,6091,2920,0.0003
+BANC,California,Sonoma County,6097,489819,0.0585
+BANC,California,Stanislaus County,6099,550081,0.0657
+BANC,California,Sutter County,6101,96385,0.0115
+BANC,California,Tehama County,6103,64494,0.0077
+BANC,California,Trinity County,6105,12216,0.0015
+BANC,California,Tuolumne County,6109,54515,0.0065
+BPAT,California,Modoc County,6049,8763,0.0007
+BPAT,Idaho,Bonner County,16017,46817,0.0038
+BPAT,Idaho,Boundary County,16021,12656,0.001
+BPAT,Idaho,Clearwater County,16035,8846,0.0007
+BPAT,Idaho,Gem County,16045,18703,0.0015
+BPAT,Idaho,Kootenai County,16055,170628,0.014
+BPAT,Montana,Flathead County,30029,105851,0.0087
+BPAT,Montana,Lake County,30047,30986,0.0025
+BPAT,Montana,Lincoln County,30053,20343,0.0017
+BPAT,Montana,Mineral County,30061,4544,0.0004
+BPAT,Montana,Powell County,30077,6817,0.0006
+BPAT,Montana,Sanders County,30089,12157,0.001
+BPAT,Oregon,Benton County,41003,93239,0.0076
+BPAT,Oregon,Clackamas County,41005,421596,0.0345
+BPAT,Oregon,Clatsop County,41007,40423,0.0033
+BPAT,Oregon,Columbia County,41009,52876,0.0043
+BPAT,Oregon,Coos County,41011,64711,0.0053
+BPAT,Oregon,Crook County,41013,25105,0.0021
+BPAT,Oregon,Curry County,41015,23305,0.0019
+BPAT,Oregon,Deschutes County,41017,201769,0.0165
+BPAT,Oregon,Douglas County,41019,111364,0.0091
+BPAT,Oregon,Gilliam County,41021,1975,0.0002
+BPAT,Oregon,Harney County,41025,7373,0.0006
+BPAT,Oregon,Hood River County,41027,23280,0.0019
+BPAT,Oregon,Jackson County,41029,221844,0.0182
+BPAT,Oregon,Jefferson County,41031,24856,0.002
+BPAT,Oregon,Klamath County,41035,68739,0.0056
+BPAT,Oregon,Lake County,41037,7949,0.0007
+BPAT,Oregon,Lane County,41039,382986,0.0314
+BPAT,Oregon,Lincoln County,41041,50583,0.0041
+BPAT,Oregon,Linn County,41043,131054,0.0107
+BPAT,Oregon,Marion County,41047,349204,0.0286
+BPAT,Oregon,Morrow County,41049,11700,0.001
+BPAT,Oregon,Multnomah County,41051,815637,0.0668
+BPAT,Oregon,Polk County,41053,87744,0.0072
+BPAT,Oregon,Sherman County,41055,1801,0.0001
+BPAT,Oregon,Tillamook County,41057,27442,0.0022
+BPAT,Oregon,Umatilla County,41059,77752,0.0064
+BPAT,Oregon,Union County,41061,26551,0.0022
+BPAT,Oregon,Wasco County,41065,26403,0.0022
+BPAT,Oregon,Washington County,41067,603514,0.0494
+BPAT,Oregon,Wheeler County,41069,1387,0.0001
+BPAT,Oregon,Yamhill County,41071,107664,0.0088
+BPAT,Washington,Adams County,53001,20027,0.0016
+BPAT,Washington,Benton County,53005,206426,0.0169
+BPAT,Washington,Chelan County,53007,77574,0.0064
+BPAT,Washington,Clallam County,53009,78067,0.0064
+BPAT,Washington,Clark County,53011,496865,0.0407
+BPAT,Washington,Columbia County,53013,4048,0.0003
+BPAT,Washington,Cowlitz County,53015,111371,0.0091
+BPAT,Washington,Douglas County,53017,43560,0.0036
+BPAT,Washington,Ferry County,53019,7759,0.0006
+BPAT,Washington,Franklin County,53021,97075,0.008
+BPAT,Washington,Garfield County,53023,2290,0.0002
+BPAT,Washington,Grant County,53025,99377,0.0081
+BPAT,Washington,Grays Harbor County,53027,75950,0.0062
+BPAT,Washington,Island County,53029,86014,0.007
+BPAT,Washington,Jefferson County,53031,32700,0.0027
+BPAT,Washington,King County,53033,2274315,0.1863
+BPAT,Washington,Kitsap County,53035,272787,0.0223
+BPAT,Washington,Kittitas County,53037,49204,0.004
+BPAT,Washington,Klickitat County,53039,22697,0.0019
+BPAT,Washington,Lewis County,53041,82109,0.0067
+BPAT,Washington,Lincoln County,53043,11090,0.0009
+BPAT,Washington,Mason County,53045,68224,0.0056
+BPAT,Washington,Okanogan County,53047,42620,0.0035
+BPAT,Washington,Pacific County,53049,22984,0.0019
+BPAT,Washington,Pend Oreille County,53051,14144,0.0012
+BPAT,Washington,Pierce County,53053,913890,0.0748
+BPAT,Washington,San Juan County,53055,17492,0.0014
+BPAT,Washington,Skagit County,53057,130789,0.0107
+BPAT,Washington,Skamania County,53059,12107,0.001
+BPAT,Washington,Snohomish County,53061,830393,0.068
+BPAT,Washington,Spokane County,53063,528225,0.0433
+BPAT,Washington,Stevens County,53065,46360,0.0038
+BPAT,Washington,Thurston County,53067,294074,0.0241
+BPAT,Washington,Wahkiakum County,53069,4498,0.0004
+BPAT,Washington,Walla Walla County,53071,61292,0.005
+BPAT,Washington,Whatcom County,53073,231016,0.0189
+BPAT,Washington,Whitman County,53075,49500,0.0041
+BPAT,Washington,Yakima County,53077,251879,0.0206
+CHPD,Washington,Chelan County,53007,77574,0.6404
+CHPD,Washington,Douglas County,53017,43560,0.3596
+CISO_PGE,California,Alameda County,6001,1662323,0.0613
+CISO_PGE,California,Amador County,6005,40083,0.0015
+CISO_PGE,California,Butte County,6007,212744,0.0078
+CISO_PGE,California,Calaveras County,6009,46308,0.0017
+CISO_PGE,California,Colusa County,6011,21558,0.0008
+CISO_PGE,California,Contra Costa County,6013,1152333,0.0425
+CISO_PGE,California,El Dorado County,6017,192925,0.0071
+CISO_PGE,California,Fresno County,6019,1000918,0.0369
+CISO_PGE,California,Glenn County,6021,28283,0.001
+CISO_PGE,California,Humboldt County,6023,134977,0.005
+CISO_PGE,California,Kern County,6029,901362,0.0332
+CISO_PGE,California,Kings County,6031,152692,0.0056
+CISO_PGE,California,Lake County,6033,64479,0.0024
+CISO_PGE,California,Lassen County,6035,30016,0.0011
+CISO_PGE,California,Los Angeles County,6037,9943046,0.3666
+CISO_PGE,California,Madera County,6039,157761,0.0058
+CISO_PGE,California,Marin County,6041,257332,0.0095
+CISO_PGE,California,Mariposa County,6043,17160,0.0006
+CISO_PGE,California,Mendocino County,6045,86061,0.0032
+CISO_PGE,California,Merced County,6047,279252,0.0103
+CISO_PGE,California,Monterey County,6053,430906,0.0159
+CISO_PGE,California,Napa County,6055,135965,0.005
+CISO_PGE,California,Nevada County,6057,99606,0.0037
+CISO_PGE,California,Placer County,6061,402950,0.0149
+CISO_PGE,California,Plumas County,6063,18967,0.0007
+CISO_PGE,California,Sacramento County,6067,1559146,0.0575
+CISO_PGE,California,San Benito County,6069,64055,0.0024
+CISO_PGE,California,San Francisco County,6075,866606,0.0319
+CISO_PGE,California,San Joaquin County,6077,767967,0.0283
+CISO_PGE,California,San Luis Obispo County,6079,282249,0.0104
+CISO_PGE,California,San Mateo County,6081,758308,0.028
+CISO_PGE,California,Santa Barbara County,6083,444766,0.0164
+CISO_PGE,California,Santa Clara County,6085,1907105,0.0703
+CISO_PGE,California,Santa Cruz County,6087,269925,0.01
+CISO_PGE,California,Shasta County,6089,179027,0.0066
+CISO_PGE,California,Sierra County,6091,2920,0.0001
+CISO_PGE,California,Solano County,6095,446935,0.0165
+CISO_PGE,California,Sonoma County,6097,489819,0.0181
+CISO_PGE,California,Stanislaus County,6099,550081,0.0203
+CISO_PGE,California,Sutter County,6101,96385,0.0036
+CISO_PGE,California,Tehama County,6103,64494,0.0024
+CISO_PGE,California,Trinity County,6105,12216,0.0005
+CISO_PGE,California,Tulare County,6107,468680,0.0173
+CISO_PGE,California,Tuolumne County,6109,54515,0.002
+CISO_PGE,California,Yolo County,6113,219728,0.0081
+CISO_PGE,California,Yuba County,6115,80160,0.003
+CISO_PGE,Oregon,Klamath County,41035,68739,0.0025
+CISO_SCE,Arizona,La Paz County,4012,21480,0.0008
+CISO_SCE,California,Fresno County,6019,1000918,0.0367
+CISO_SCE,California,Inyo County,6027,18046,0.0007
+CISO_SCE,California,Kern County,6029,901362,0.033
+CISO_SCE,California,Los Angeles County,6037,9943046,0.3641
+CISO_SCE,California,Madera County,6039,157761,0.0058
+CISO_SCE,California,Mono County,6051,14534,0.0005
+CISO_SCE,California,Orange County,6059,3166857,0.116
+CISO_SCE,California,Riverside County,6065,2489188,0.0912
+CISO_SCE,California,San Bernardino County,6071,2189183,0.0802
+CISO_SCE,California,San Diego County,6073,3332427,0.122
+CISO_SCE,California,Santa Barbara County,6083,444766,0.0163
+CISO_SCE,California,Tulare County,6107,468680,0.0172
+CISO_SCE,California,Ventura County,6111,841387,0.0308
+CISO_SCE,Nevada,Clark County,32003,2315963,0.0848
+CISO_SCE,Nevada,Esmeralda County,32009,886,0.0
+CISO_SDGE,Arizona,Yuma County,4027,217824,0.0232
+CISO_SDGE,California,Imperial County,6025,180267,0.0192
+CISO_SDGE,California,Orange County,6059,3166857,0.3374
+CISO_SDGE,California,Riverside County,6065,2489188,0.2652
+CISO_SDGE,California,San Diego County,6073,3332427,0.355
+CISO_VEA,Nevada,Clark County,32003,2315963,0.9797
+CISO_VEA,Nevada,Nye County,32023,48054,0.0203
+DOPD,Washington,Chelan County,53007,77574,0.6404
+DOPD,Washington,Douglas County,53017,43560,0.3596
+EPE,New Mexico,Chaves County,35005,64711,0.0502
+EPE,New Mexico,Dona Ana County,35013,221262,0.1717
+EPE,New Mexico,Eddy County,35015,58418,0.0453
+EPE,New Mexico,Hidalgo County,35023,4106,0.0032
+EPE,New Mexico,Luna County,35029,23905,0.0185
+EPE,New Mexico,Otero County,35035,67967,0.0527
+EPE,Texas,Culberson County,48109,2149,0.0017
+EPE,Texas,El Paso County,48141,841286,0.6528
+EPE,Texas,Hudspeth County,48229,4906,0.0038
+GCPD,Washington,Grant County,53025,99377,1.0
+IID,Arizona,Maricopa County,4013,4579081,0.3579
+IID,Arizona,Yuma County,4027,217824,0.017
+IID,California,Imperial County,6025,180267,0.0141
+IID,California,Riverside County,6065,2489188,0.1945
+IID,California,San Diego County,6073,3332427,0.2605
+IID,Utah,Salt Lake County,49035,1165517,0.0911
+IID,Washington,Snohomish County,53061,830393,0.0649
+IPCO,Idaho,Ada County,16001,494399,0.3525
+IPCO,Idaho,Adams County,16003,4447,0.0032
+IPCO,Idaho,Bannock County,16005,88795,0.0633
+IPCO,Idaho,Bingham County,16011,47202,0.0337
+IPCO,Idaho,Blaine County,16013,23426,0.0167
+IPCO,Idaho,Boise County,16015,8065,0.0058
+IPCO,Idaho,Camas County,16025,1130,0.0008
+IPCO,Idaho,Canyon County,16027,237053,0.169
+IPCO,Idaho,Cassia County,16031,24277,0.0173
+IPCO,Idaho,Elmore County,16039,27448,0.0196
+IPCO,Idaho,Gem County,16045,18703,0.0133
+IPCO,Idaho,Gooding County,16047,15618,0.0111
+IPCO,Idaho,Jerome County,16053,24578,0.0175
+IPCO,Idaho,Lincoln County,16063,5358,0.0038
+IPCO,Idaho,Minidoka County,16067,21216,0.0151
+IPCO,Idaho,Owyhee County,16073,12133,0.0087
+IPCO,Idaho,Payette County,16075,24771,0.0177
+IPCO,Idaho,Power County,16077,7643,0.0054
+IPCO,Idaho,Twin Falls County,16083,88411,0.063
+IPCO,Idaho,Valley County,16085,11792,0.0084
+IPCO,Idaho,Washington County,16087,10360,0.0074
+IPCO,Nevada,Elko County,32007,53006,0.0378
+IPCO,Oregon,Baker County,41001,16284,0.0116
+IPCO,Oregon,Grant County,41023,7180,0.0051
+IPCO,Oregon,Harney County,41025,7373,0.0053
+IPCO,Oregon,Malheur County,41045,30983,0.0221
+IPCO,Oregon,Union County,41061,26551,0.0189
+IPCO,Oregon,Wallowa County,41063,7181,0.0051
+IPCO,Utah,Box Elder County,49003,57007,0.0406
+LDWP,Arizona,Mohave County,4015,217206,0.0139
+LDWP,California,Inyo County,6027,18046,0.0012
+LDWP,California,Kern County,6029,901362,0.0575
+LDWP,California,Los Angeles County,6037,9943046,0.6343
+LDWP,California,Mono County,6051,14534,0.0009
+LDWP,California,San Bernardino County,6071,2189183,0.1396
+LDWP,Nevada,Clark County,32003,2315963,0.1477
+LDWP,Utah,Beaver County,49001,6761,0.0004
+LDWP,Utah,Iron County,49021,56814,0.0036
+LDWP,Utah,Millard County,49027,13327,0.0009
+NEVP,Arizona,Mohave County,4015,217206,0.0343
+NEVP,California,El Dorado County,6017,192925,0.0305
+NEVP,California,Modoc County,6049,8763,0.0014
+NEVP,California,Mono County,6051,14534,0.0023
+NEVP,California,Nevada County,6057,99606,0.0157
+NEVP,California,Placer County,6061,402950,0.0637
+NEVP,California,Plumas County,6063,18967,0.003
+NEVP,California,San Bernardino County,6071,2189183,0.3461
+NEVP,California,Sierra County,6091,2920,0.0005
+NEVP,Nevada,Churchill County,32001,25363,0.004
+NEVP,Nevada,Clark County,32003,2315963,0.3662
+NEVP,Nevada,Douglas County,32005,49088,0.0078
+NEVP,Nevada,Elko County,32007,53006,0.0084
+NEVP,Nevada,Esmeralda County,32009,886,0.0001
+NEVP,Nevada,Eureka County,32011,2065,0.0003
+NEVP,Nevada,Humboldt County,32013,16962,0.0027
+NEVP,Nevada,Lander County,32015,5514,0.0009
+NEVP,Nevada,Lyon County,32019,58319,0.0092
+NEVP,Nevada,Mineral County,32021,4518,0.0007
+NEVP,Nevada,Nye County,32023,48054,0.0076
+NEVP,Nevada,Pershing County,32027,6573,0.001
+NEVP,Nevada,Storey County,32029,4207,0.0007
+NEVP,Nevada,Washoe County,32031,477082,0.0754
+NEVP,Nevada,White Pine County,32033,9466,0.0015
+NEVP,Nevada,Carson City,32510,56034,0.0089
+NEVP,Oregon,Malheur County,41045,30983,0.0049
+NEVP,Utah,Millard County,49027,13327,0.0021
+NWMT,Idaho,Clark County,16033,852,0.001
+NWMT,Idaho,Jerome County,16053,24578,0.028
+NWMT,Montana,Beaverhead County,30001,9483,0.0108
+NWMT,Montana,Big Horn County,30003,13063,0.0149
+NWMT,Montana,Broadwater County,30007,6444,0.0073
+NWMT,Montana,Carbon County,30009,10921,0.0124
+NWMT,Montana,Cascade County,30013,81346,0.0926
+NWMT,Montana,Deer Lodge County,30023,9204,0.0105
+NWMT,Montana,Fergus County,30027,11104,0.0126
+NWMT,Montana,Gallatin County,30031,116806,0.1329
+NWMT,Montana,Glacier County,30035,13594,0.0155
+NWMT,Montana,Golden Valley County,30037,827,0.0009
+NWMT,Montana,Granite County,30039,3317,0.0038
+NWMT,Montana,Jefferson County,30043,12360,0.0141
+NWMT,Montana,Judith Basin County,30045,1994,0.0023
+NWMT,Montana,Lake County,30047,30986,0.0353
+NWMT,Montana,Lewis and Clark County,30049,70229,0.0799
+NWMT,Montana,Madison County,30057,8959,0.0102
+NWMT,Montana,Meagher County,30059,1831,0.0021
+NWMT,Montana,Mineral County,30061,4544,0.0052
+NWMT,Montana,Missoula County,30063,121630,0.1384
+NWMT,Montana,Musselshell County,30065,4669,0.0053
+NWMT,Montana,Park County,30067,16760,0.0191
+NWMT,Montana,Pondera County,30073,5782,0.0066
+NWMT,Montana,Powell County,30077,6817,0.0078
+NWMT,Montana,Ravalli County,30081,45002,0.0512
+NWMT,Montana,Rosebud County,30087,8836,0.0101
+NWMT,Montana,Sanders County,30089,12157,0.0138
+NWMT,Montana,Silver Bow County,30093,35180,0.04
+NWMT,Montana,Stillwater County,30095,9888,0.0113
+NWMT,Montana,Sweet Grass County,30097,3684,0.0042
+NWMT,Montana,Teton County,30099,6249,0.0071
+NWMT,Montana,Toole County,30101,4686,0.0053
+NWMT,Montana,Wheatland County,30107,2157,0.0025
+NWMT,Montana,Yellowstone County,30111,162990,0.1854
+PACE,Arizona,Mohave County,4015,217206,0.0322
+PACE,Colorado,Rio Blanco County,8103,6342,0.0009
+PACE,Idaho,Bannock County,16005,88795,0.0132
+PACE,Idaho,Bear Lake County,16007,6143,0.0009
+PACE,Idaho,Bingham County,16011,47202,0.007
+PACE,Idaho,Bonneville County,16019,122134,0.0181
+PACE,Idaho,Butte County,16023,2646,0.0004
+PACE,Idaho,Caribou County,16029,7123,0.0011
+PACE,Idaho,Clark County,16033,852,0.0001
+PACE,Idaho,Custer County,16037,4249,0.0006
+PACE,Idaho,Franklin County,16041,14215,0.0021
+PACE,Idaho,Fremont County,16043,13218,0.002
+PACE,Idaho,Jefferson County,16051,30581,0.0045
+PACE,Idaho,Madison County,16065,40318,0.006
+PACE,Idaho,Oneida County,16071,4520,0.0007
+PACE,Idaho,Power County,16077,7643,0.0011
+PACE,Idaho,Teton County,16081,12501,0.0019
+PACE,Montana,Big Horn County,30003,13063,0.0019
+PACE,Montana,Carbon County,30009,10921,0.0016
+PACE,Montana,Gallatin County,30031,116806,0.0173
+PACE,Nevada,Clark County,32003,2315963,0.3434
+PACE,Utah,Beaver County,49001,6761,0.001
+PACE,Utah,Box Elder County,49003,57007,0.0085
+PACE,Utah,Cache County,49005,130004,0.0193
+PACE,Utah,Carbon County,49007,20760,0.0031
+PACE,Utah,Davis County,49011,359232,0.0533
+PACE,Utah,Duchesne County,49013,19894,0.0029
+PACE,Utah,Emery County,49015,10147,0.0015
+PACE,Utah,Grand County,49019,9796,0.0015
+PACE,Utah,Iron County,49021,56814,0.0084
+PACE,Utah,Juab County,49023,12122,0.0018
+PACE,Utah,Millard County,49027,13327,0.002
+PACE,Utah,Rich County,49033,2452,0.0004
+PACE,Utah,Salt Lake County,49035,1165517,0.1728
+PACE,Utah,San Juan County,49037,15278,0.0023
+PACE,Utah,Sanpete County,49039,31393,0.0047
+PACE,Utah,Sevier County,49041,21780,0.0032
+PACE,Utah,Summit County,49043,42499,0.0063
+PACE,Utah,Tooele County,49045,74512,0.011
+PACE,Utah,Uintah County,49047,35970,0.0053
+PACE,Utah,Utah County,49049,651059,0.0965
+PACE,Utah,Wasatch County,49051,35300,0.0052
+PACE,Utah,Washington County,49053,184913,0.0274
+PACE,Utah,Weber County,49057,262658,0.0389
+PACE,Wyoming,Albany County,56001,38950,0.0058
+PACE,Wyoming,Big Horn County,56003,11575,0.0017
+PACE,Wyoming,Campbell County,56005,46676,0.0069
+PACE,Wyoming,Carbon County,56007,14711,0.0022
+PACE,Wyoming,Converse County,56009,13804,0.002
+PACE,Wyoming,Fremont County,56013,39317,0.0058
+PACE,Wyoming,Hot Springs County,56017,4425,0.0007
+PACE,Wyoming,Johnson County,56019,8588,0.0013
+PACE,Wyoming,Lincoln County,56023,20253,0.003
+PACE,Wyoming,Natrona County,56025,80815,0.012
+PACE,Wyoming,Park County,56029,29331,0.0043
+PACE,Wyoming,Sheridan County,56033,30863,0.0046
+PACE,Wyoming,Sublette County,56035,9856,0.0015
+PACE,Wyoming,Sweetwater County,56037,42673,0.0063
+PACE,Wyoming,Teton County,56039,23497,0.0035
+PACE,Wyoming,Uinta County,56041,20215,0.003
+PACE,Wyoming,Washakie County,56043,7760,0.0012
+PACW,California,Del Norte County,6015,27968,0.0067
+PACW,California,Modoc County,6049,8763,0.0021
+PACW,California,Shasta County,6089,179027,0.0432
+PACW,California,Siskiyou County,6093,43245,0.0104
+PACW,Oregon,Benton County,41003,93239,0.0225
+PACW,Oregon,Clatsop County,41007,40423,0.0097
+PACW,Oregon,Coos County,41011,64711,0.0156
+PACW,Oregon,Crook County,41013,25105,0.0061
+PACW,Oregon,Deschutes County,41017,201769,0.0487
+PACW,Oregon,Douglas County,41019,111364,0.0269
+PACW,Oregon,Gilliam County,41021,1975,0.0005
+PACW,Oregon,Hood River County,41027,23280,0.0056
+PACW,Oregon,Jackson County,41029,221844,0.0535
+PACW,Oregon,Jefferson County,41031,24856,0.006
+PACW,Oregon,Josephine County,41033,88053,0.0212
+PACW,Oregon,Klamath County,41035,68739,0.0166
+PACW,Oregon,Lake County,41037,7949,0.0019
+PACW,Oregon,Lane County,41039,382986,0.0924
+PACW,Oregon,Lincoln County,41041,50583,0.0122
+PACW,Oregon,Linn County,41043,131054,0.0316
+PACW,Oregon,Marion County,41047,349204,0.0842
+PACW,Oregon,Morrow County,41049,11700,0.0028
+PACW,Oregon,Multnomah County,41051,815637,0.1967
+PACW,Oregon,Polk County,41053,87744,0.0212
+PACW,Oregon,Sherman County,41055,1801,0.0004
+PACW,Oregon,Tillamook County,41057,27442,0.0066
+PACW,Oregon,Umatilla County,41059,77752,0.0188
+PACW,Oregon,Wallowa County,41063,7181,0.0017
+PACW,Washington,Asotin County,53003,22820,0.0055
+PACW,Washington,Clark County,53011,496865,0.1198
+PACW,Washington,Columbia County,53013,4048,0.001
+PACW,Washington,Franklin County,53021,97075,0.0234
+PACW,Washington,Garfield County,53023,2290,0.0006
+PACW,Washington,Klickitat County,53039,22697,0.0055
+PACW,Washington,Skamania County,53059,12107,0.0029
+PACW,Washington,Walla Walla County,53071,61292,0.0148
+PACW,Washington,Yakima County,53077,251879,0.0607
+PGE,Oregon,Clackamas County,41005,421596,0.1617
+PGE,Oregon,Columbia County,41009,52876,0.0203
+PGE,Oregon,Jefferson County,41031,24856,0.0095
+PGE,Oregon,Klamath County,41035,68739,0.0264
+PGE,Oregon,Marion County,41047,349204,0.134
+PGE,Oregon,Morrow County,41049,11700,0.0045
+PGE,Oregon,Multnomah County,41051,815637,0.3129
+PGE,Oregon,Polk County,41053,87744,0.0337
+PGE,Oregon,Sherman County,41055,1801,0.0007
+PGE,Oregon,Washington County,41067,603514,0.2315
+PGE,Oregon,Yamhill County,41071,107664,0.0413
+PGE,Washington,Walla Walla County,53071,61292,0.0235
+PNM,New Mexico,Bernalillo County,35001,681666,0.3566
+PNM,New Mexico,Catron County,35003,3623,0.0019
+PNM,New Mexico,Cibola County,35006,26354,0.0138
+PNM,New Mexico,Colfax County,35007,11927,0.0062
+PNM,New Mexico,Curry County,35009,48793,0.0255
+PNM,New Mexico,De Baca County,35011,1673,0.0009
+PNM,New Mexico,Dona Ana County,35013,221262,0.1158
+PNM,New Mexico,Grant County,35017,27007,0.0141
+PNM,New Mexico,Guadalupe County,35019,4275,0.0022
+PNM,New Mexico,Harding County,35021,638,0.0003
+PNM,New Mexico,Hidalgo County,35023,4106,0.0021
+PNM,New Mexico,Lincoln County,35027,19939,0.0104
+PNM,New Mexico,Los Alamos County,35028,19462,0.0102
+PNM,New Mexico,Luna County,35029,23905,0.0125
+PNM,New Mexico,McKinley County,35031,70824,0.0371
+PNM,New Mexico,Mora County,35033,4478,0.0023
+PNM,New Mexico,Otero County,35035,67967,0.0356
+PNM,New Mexico,Quay County,35037,8197,0.0043
+PNM,New Mexico,Rio Arriba County,35039,38521,0.0202
+PNM,New Mexico,Roosevelt County,35041,18350,0.0096
+PNM,New Mexico,Sandoval County,35043,148904,0.0779
+PNM,New Mexico,San Juan County,35045,123312,0.0645
+PNM,New Mexico,San Miguel County,35047,27144,0.0142
+PNM,New Mexico,Santa Fe County,35049,151946,0.0795
+PNM,New Mexico,Sierra County,35051,10867,0.0057
+PNM,New Mexico,Socorro County,35053,16541,0.0087
+PNM,New Mexico,Taos County,35055,32593,0.0171
+PNM,New Mexico,Torrance County,35057,15486,0.0081
+PNM,New Mexico,Union County,35059,4026,0.0021
+PNM,New Mexico,Valencia County,35061,77574,0.0406
+PSCO,Colorado,Adams County,8001,519883,0.0919
+PSCO,Colorado,Alamosa County,8003,16180,0.0029
+PSCO,Colorado,Arapahoe County,8005,657452,0.1162
+PSCO,Colorado,Baca County,8009,3555,0.0006
+PSCO,Colorado,Bent County,8011,5356,0.0009
+PSCO,Colorado,Boulder County,8013,327171,0.0578
+PSCO,Colorado,Broomfield County,8014,72236,0.0128
+PSCO,Colorado,Chaffee County,8015,20661,0.0037
+PSCO,Colorado,Cheyenne County,8017,1795,0.0003
+PSCO,Colorado,Clear Creek County,8019,9586,0.0017
+PSCO,Colorado,Conejos County,8021,8143,0.0014
+PSCO,Colorado,Costilla County,8023,3921,0.0007
+PSCO,Colorado,Crowley County,8025,5696,0.001
+PSCO,Colorado,Custer County,8027,5183,0.0009
+PSCO,Colorado,Denver County,8031,735538,0.13
+PSCO,Colorado,Douglas County,8035,360750,0.0637
+PSCO,Colorado,Eagle County,8037,54929,0.0097
+PSCO,Colorado,Elbert County,8039,27313,0.0048
+PSCO,Colorado,El Paso County,8041,728310,0.1287
+PSCO,Colorado,Fremont County,8043,47867,0.0085
+PSCO,Colorado,Garfield County,8045,60366,0.0107
+PSCO,Colorado,Grand County,8049,15794,0.0028
+PSCO,Colorado,Huerfano County,8055,6883,0.0012
+PSCO,Colorado,Jefferson County,8059,583283,0.1031
+PSCO,Colorado,Kiowa County,8061,1458,0.0003
+PSCO,Colorado,Lake County,8065,7987,0.0014
+PSCO,Colorado,Larimer County,8069,360428,0.0637
+PSCO,Colorado,Las Animas County,8071,14420,0.0025
+PSCO,Colorado,Lincoln County,8073,5680,0.001
+PSCO,Colorado,Logan County,8075,21974,0.0039
+PSCO,Colorado,Mesa County,8077,155603,0.0275
+PSCO,Colorado,Mineral County,8079,773,0.0001
+PSCO,Colorado,Moffat County,8081,13144,0.0023
+PSCO,Colorado,Morgan County,8087,28941,0.0051
+PSCO,Colorado,Otero County,8089,18201,0.0032
+PSCO,Colorado,Park County,8093,18955,0.0033
+PSCO,Colorado,Pitkin County,8097,17894,0.0032
+PSCO,Colorado,Prowers County,8099,12106,0.0021
+PSCO,Colorado,Pueblo County,8101,169823,0.03
+PSCO,Colorado,Rio Grande County,8105,11296,0.002
+PSCO,Colorado,Routt County,8107,25560,0.0045
+PSCO,Colorado,Saguache County,8109,6938,0.0012
+PSCO,Colorado,Summit County,8117,30631,0.0054
+PSCO,Colorado,Teller County,8119,25529,0.0045
+PSCO,Colorado,Weld County,8123,333983,0.059
+PSCO,Wyoming,Laramie County,56021,100595,0.0178
+PSEI,Washington,Island County,53029,86014,0.0159
+PSEI,Washington,King County,53033,2274315,0.4199
+PSEI,Washington,Kitsap County,53035,272787,0.0504
+PSEI,Washington,Kittitas County,53037,49204,0.0091
+PSEI,Washington,Lewis County,53041,82109,0.0152
+PSEI,Washington,Pierce County,53053,913890,0.1687
+PSEI,Washington,Skagit County,53057,130789,0.0241
+PSEI,Washington,Snohomish County,53061,830393,0.1533
+PSEI,Washington,Thurston County,53067,294074,0.0543
+PSEI,Washington,Whatcom County,53073,231016,0.0427
+PSEI,Washington,Yakima County,53077,251879,0.0465
+SCL,Washington,King County,53033,2274315,0.6789
+SCL,Washington,Pend Oreille County,53051,14144,0.0042
+SCL,Washington,Snohomish County,53061,830393,0.2479
+SCL,Washington,Whatcom County,53073,231016,0.069
+SRP,Arizona,Apache County,4001,71875,0.0136
+SRP,Arizona,Gila County,4007,54303,0.0102
+SRP,Arizona,Maricopa County,4013,4579081,0.8643
+SRP,Arizona,Navajo County,4017,112112,0.0212
+SRP,Arizona,Pinal County,4021,480828,0.0908
+TEPC,Arizona,Apache County,4001,71875,0.0105
+TEPC,Arizona,Cochise County,4003,127450,0.0186
+TEPC,Arizona,Greenlee County,4011,9341,0.0014
+TEPC,Arizona,Maricopa County,4013,4579081,0.6666
+TEPC,Arizona,Mohave County,4015,217206,0.0316
+TEPC,Arizona,Navajo County,4017,112112,0.0163
+TEPC,Arizona,Pima County,4019,1061175,0.1545
+TEPC,Arizona,Pinal County,4021,480828,0.07
+TEPC,Arizona,Santa Cruz County,4023,46808,0.0068
+TEPC,New Mexico,Catron County,35003,3623,0.0005
+TEPC,New Mexico,Chaves County,35005,64711,0.0094
+TEPC,New Mexico,Luna County,35029,23905,0.0035
+TEPC,New Mexico,McKinley County,35031,70824,0.0103
+TIDC,California,Mariposa County,6043,17160,0.0197
+TIDC,California,Merced County,6047,279252,0.3213
+TIDC,California,Stanislaus County,6099,550081,0.6329
+TIDC,Washington,Klickitat County,53039,22697,0.0261
+TPWR,Washington,Grays Harbor County,53027,75950,0.0205
+TPWR,Washington,King County,53033,2274315,0.6133
+TPWR,Washington,Lewis County,53041,82109,0.0221
+TPWR,Washington,Mason County,53045,68224,0.0184
+TPWR,Washington,Pierce County,53053,913890,0.2464
+TPWR,Washington,Thurston County,53067,294074,0.0793
+WACM,Arizona,Yavapai County,4025,240226,0.0511
+WACM,Colorado,Adams County,8001,519883,0.1105
+WACM,Colorado,Archuleta County,8007,14196,0.003
+WACM,Colorado,Boulder County,8013,327171,0.0695
+WACM,Colorado,Chaffee County,8015,20661,0.0044
+WACM,Colorado,Cheyenne County,8017,1795,0.0004
+WACM,Colorado,Delta County,8029,31067,0.0066
+WACM,Colorado,Dolores County,8033,2096,0.0004
+WACM,Colorado,Douglas County,8035,360750,0.0767
+WACM,Colorado,El Paso County,8041,728310,0.1548
+WACM,Colorado,Fremont County,8043,47867,0.0102
+WACM,Colorado,Garfield County,8045,60366,0.0128
+WACM,Colorado,Grand County,8049,15794,0.0034
+WACM,Colorado,Gunnison County,8051,17593,0.0037
+WACM,Colorado,Hinsdale County,8053,808,0.0002
+WACM,Colorado,Jackson County,8057,1389,0.0003
+WACM,Colorado,Kit Carson County,8063,7121,0.0015
+WACM,Colorado,Lake County,8065,7987,0.0017
+WACM,Colorado,La Plata County,8067,56564,0.012
+WACM,Colorado,Larimer County,8069,360428,0.0766
+WACM,Colorado,Las Animas County,8071,14420,0.0031
+WACM,Colorado,Lincoln County,8073,5680,0.0012
+WACM,Colorado,Logan County,8075,21974,0.0047
+WACM,Colorado,Mesa County,8077,155603,0.0331
+WACM,Colorado,Moffat County,8081,13144,0.0028
+WACM,Colorado,Montezuma County,8083,26408,0.0056
+WACM,Colorado,Montrose County,8085,43322,0.0092
+WACM,Colorado,Morgan County,8087,28941,0.0062
+WACM,Colorado,Ouray County,8091,5001,0.0011
+WACM,Colorado,Phillips County,8095,4367,0.0009
+WACM,Colorado,Pueblo County,8101,169823,0.0361
+WACM,Colorado,Rio Blanco County,8103,6342,0.0013
+WACM,Colorado,Routt County,8107,25560,0.0054
+WACM,Colorado,San Juan County,8111,748,0.0002
+WACM,Colorado,San Miguel County,8113,8105,0.0017
+WACM,Colorado,Summit County,8117,30631,0.0065
+WACM,Colorado,Washington County,8121,4875,0.001
+WACM,Colorado,Weld County,8123,333983,0.071
+WACM,Colorado,Yuma County,8125,10047,0.0021
+WACM,Montana,Big Horn County,30003,13063,0.0028
+WACM,Montana,Carter County,30011,1235,0.0003
+WACM,Montana,Powder River County,30075,1681,0.0004
+WACM,Nebraska,Chase County,31029,3840,0.0008
+WACM,Nebraska,Cheyenne County,31033,9111,0.0019
+WACM,Nebraska,Dundy County,31057,1671,0.0004
+WACM,Nebraska,Kimball County,31105,3495,0.0007
+WACM,Nebraska,Morrill County,31123,4625,0.001
+WACM,Nebraska,Perkins County,31135,2867,0.0006
+WACM,Nebraska,Scotts Bluff County,31157,35299,0.0075
+WACM,New Mexico,San Juan County,35045,123312,0.0262
+WACM,South Dakota,Butte County,46019,10538,0.0022
+WACM,South Dakota,Custer County,46033,9017,0.0019
+WACM,South Dakota,Fall River County,46047,6708,0.0014
+WACM,South Dakota,Lawrence County,46081,26221,0.0056
+WACM,South Dakota,Meade County,46093,28588,0.0061
+WACM,South Dakota,Pennington County,46103,115926,0.0246
+WACM,Utah,Daggett County,49009,1026,0.0002
+WACM,Utah,Uintah County,49047,35970,0.0076
+WACM,Wyoming,Albany County,56001,38950,0.0083
+WACM,Wyoming,Big Horn County,56003,11575,0.0025
+WACM,Wyoming,Campbell County,56005,46676,0.0099
+WACM,Wyoming,Carbon County,56007,14711,0.0031
+WACM,Wyoming,Converse County,56009,13804,0.0029
+WACM,Wyoming,Crook County,56011,7593,0.0016
+WACM,Wyoming,Fremont County,56013,39317,0.0084
+WACM,Wyoming,Goshen County,56015,13235,0.0028
+WACM,Wyoming,Hot Springs County,56017,4425,0.0009
+WACM,Wyoming,Laramie County,56021,100595,0.0214
+WACM,Wyoming,Lincoln County,56023,20253,0.0043
+WACM,Wyoming,Natrona County,56025,80815,0.0172
+WACM,Wyoming,Niobrara County,56027,2275,0.0005
+WACM,Wyoming,Park County,56029,29331,0.0062
+WACM,Wyoming,Platte County,56031,8578,0.0018
+WACM,Wyoming,Sheridan County,56033,30863,0.0066
+WACM,Wyoming,Sweetwater County,56037,42673,0.0091
+WACM,Wyoming,Uinta County,56041,20215,0.0043
+WACM,Wyoming,Washakie County,56043,7760,0.0016
+WACM,Wyoming,Weston County,56045,6743,0.0014
+WALC,Arizona,Cochise County,4003,127450,0.0088
+WALC,Arizona,Coconino County,4005,142481,0.0099
+WALC,Arizona,Graham County,4009,39211,0.0027
+WALC,Arizona,Greenlee County,4011,9341,0.0006
+WALC,Arizona,La Paz County,4012,21480,0.0015
+WALC,Arizona,Maricopa County,4013,4579081,0.3175
+WALC,Arizona,Mohave County,4015,217206,0.0151
+WALC,Arizona,Navajo County,4017,112112,0.0078
+WALC,Arizona,Pima County,4019,1061175,0.0736
+WALC,Arizona,Pinal County,4021,480828,0.0333
+WALC,Arizona,Yavapai County,4025,240226,0.0167
+WALC,Arizona,Yuma County,4027,217824,0.0151
+WALC,California,Imperial County,6025,180267,0.0125
+WALC,California,Riverside County,6065,2489188,0.1726
+WALC,California,San Bernardino County,6071,2189183,0.1518
+WALC,Nevada,Clark County,32003,2315963,0.1606
+WAUW,Montana,Big Horn County,30003,13063,0.0787
+WAUW,Montana,Blaine County,30005,6568,0.0396
+WAUW,Montana,Cascade County,30013,81346,0.4901
+WAUW,Montana,Chouteau County,30015,5699,0.0343
+WAUW,Montana,Custer County,30017,11292,0.068
+WAUW,Montana,Hill County,30041,16358,0.0986
+WAUW,Montana,Liberty County,30051,2369,0.0143
+WAUW,Montana,McCone County,30055,1648,0.0099
+WAUW,Montana,Phillips County,30071,3919,0.0236
+WAUW,Montana,Powell County,30077,6817,0.0411
+WAUW,Montana,Rosebud County,30087,8836,0.0532
+WAUW,Montana,Treasure County,30103,695,0.0042
+WAUW,Montana,Valley County,30105,7359,0.0443

@@ -1,0 +1,32 @@
+ba,is_subregion,eia930_name,long_name
+AVA,False,AVA,Avista Corporation
+AZPS,False,AZPS,Arizona Public Service Company
+BANC,False,BANC,Balancing Authority of Northern California
+BPAT,False,BPAT,Bonneville Power Administration
+CHPD,False,CHPD,Public Utility District 1 of Chelan County
+CISO_PGE,True,PGAE,CISO Pacific Gas and Electric
+CISO_SCE,True,SCE,CISO Southern California Edison
+CISO_SDGE,True,SDGE,CISO San Diego Gas and Electric
+CISO_VEA,True,VEA,CISO Valley Electric Association 
+DOPD,False,DOPD,Public Utility District 1 of Douglas County
+EPE,False,EPE,El Paso Electric Company
+GCPD,False,GCPD,Public Utility District 2 of Grant County
+IID,False,IID,Imperial Irrigation District
+IPCO,False,IPCO,Idaho Power Company
+LDWP,False,LDWP,Los Angeles Department of Water and Power
+NEVP,False,NEVP,Nevada Power Company
+NWMT,False,NWMT,NorthWestern Corporation
+PACE,False,PACE,PacifiCorp East
+PACW,False,PACW,PacifiCorp West
+PGE,False,PGE,Portland General Electric Company
+PNM,False,PNM,Public Service Company of New Mexico
+PSCO,False,PSCO,Public Service Company of Colorado
+PSEI,False,PSEI,Puget Sound Energy
+SCL,False,SCL,Seattle City Light
+SRP,False,SRP,Salt River Project
+TEPC,False,TEPC,Tucson Electric Power Company
+TIDC,False,TIDC,Turlock Irrigation District
+TPWR,False,TPWR,City of Tacoma Department of Public Utilities
+WACM,False,WACM,WAPA Rocky Mountain Region
+WALC,False,WALC,WAPA Desert Southwest Region
+WAUW,False,WAUW,WAPA Upper Great Plains West

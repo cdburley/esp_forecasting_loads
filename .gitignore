@@ -1,5 +1,8 @@
 # Directories
-data/
+data/county_shapefiles
+data/load_area_time_series
+data/state_shapefiles
+data/wecc_time_series
 
 # sys files
 .DS_Store
