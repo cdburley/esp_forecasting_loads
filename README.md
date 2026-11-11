@@ -28,7 +28,7 @@ create time-series for the U.S. western interconnection as a whole. All times ar
 The final dataset was passed to Nathalie Voisin on 11-Nov 2026 via Teams.
 
 ## Workflow
-Use the following notebooks to rerun the visualizations shown in the `/figures`. The specific load areas the analysis 
+Use the following notebooks to recreate the visualizations shown in the `/figures`. The specific load areas the analysis 
 uses are controlled in the `wecc_load_areas.csv` file in the `/data` directory.
 
 | Notebook Order |           Script Name            |                                Description                                | 
