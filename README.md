@@ -1,4 +1,6 @@
 # esp_forecasting_loads
+This dataset was developed as part of the HydroWIRES D3 - Hydropower Operational Opportunities (75432) funded by 
+the US DOE Office of Hydropower and Hydrokinetics (H2O).
 
 ## Contributors
 Data was produced by Aowabin Rahman (aowabin.rahman@pnnl.gov) and Casey Burleyson (casey.burleyson@pnnl.gov). Both 
