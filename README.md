@@ -2,7 +2,7 @@
 
 ## Workflow
 Use the following notebooks to rerun the analysis and reproduce the load data. The specific BAs the analysis uses are 
-controlled in the `balancing_authority_modeled.yml` file in the `/data` directory. The underlying machine learning 
+controlled in the `wecc_load_areas.csv` file in the `/data` directory. The underlying machine learning 
 models rely on functions within the Total ELectricity Loads (TELL) python package. Before running any of the scripts 
 below you should install TELL using `pip install tell`.
 
