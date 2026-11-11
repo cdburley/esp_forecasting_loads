@@ -6,8 +6,7 @@ controlled in the `wecc_load_areas.csv` file in the `/data` directory. The under
 models rely on functions within the Total ELectricity Loads (TELL) python package. Before running any of the scripts 
 below you should install TELL using `pip install tell`.
 
-| Notebook Order |              Script Name               |                                                       Description                                                        | 
-|:--------------:|:--------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
-|       1        |    plot_ba_service_territory.ipynb     |                              Plots the service territory of the BAs used in this analysis.                               |
-|       2        | plot_ba_load_weather_time_series.ipynb |                     Plots the raw time series of the load, weather, and population data for each BA.                     |
-|       3        |     train_and_run_mlp_models.ipynb     | Iteratively trains the TELL MLP models using evolving time windows and uses the models to project loads forward in time. |
+| Notebook Order |           Script Name            |                                Description                                | 
+|:--------------:|:--------------------------------:|:-------------------------------------------------------------------------:|
+|       1        | plot_ba_service_territory.ipynb  |   Plots the service territory of the load areas used in this analysis.    |
+|       2        | plot_wecc_load_variability.ipynb | Plots the variability in loads summed across the western interconnection. |
